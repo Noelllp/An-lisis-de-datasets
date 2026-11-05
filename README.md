@@ -47,8 +47,6 @@ Este repositorio analiza varios datasets de redes con tres algoritmos clásicos 
 │   │   └── make_notebook.py          #   3. Genera el notebook de análisis
 │   └── notebooks/
 │       └── analisis_enlaces_wikipedia.ipynb
-├── PIPELINE.md                       # Explicación detallada del pipeline de Wikipedia
-├── requirements.txt                  # Dependencias
 └── README.md
 ```
 
